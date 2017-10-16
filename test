@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1 {
+        color: blue;
+       }
+       li {
+        font-family: "Comic Sans MS", cursive, serif;
+        color: green;
+       }
+      </style>
+    </head>
+  <body>
+    <h1>Best Sims 4 Packs</h1>
+    <p>chipotle</p>
+    <ol>
+      <li>City Living</li>
+      <li>Parenthood</li>
+      <li>Get To Work</li>
+      <li>Get Together</li>
+      <li>Dine Out</li>
+    </ol>
+  </body>
+  </html>
+        
